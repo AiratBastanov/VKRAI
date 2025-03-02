@@ -70,7 +70,7 @@ predictive_maintenance_project/
 ### 1️⃣ **Клонирование репозитория**  
 ```bash
 git clone https://github.com/AiratBastanov/VKRAI.git
-cd <название-на-клонированную-папку>
+cd VKRAI
 2️⃣ Установка зависимостей
 Создайте виртуальное окружение (рекомендуется) и установите библиотеки:
 pip install -r requirements.txt
