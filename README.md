@@ -54,15 +54,15 @@
 - **XGBoost** — градиентный бустинг  
 - **Matplotlib, Seaborn** — визуализация
 ## 📂 Структура проекта  
-predictive_maintenance_project/
+predictive_maintenance_project/  
 │  
-├── app.py # Основной файл Streamlit-приложения
-├── analysis_and_model.py # Страница с анализом данных и моделью
-├── presentation.py # Страница с презентацией проекта
-├── requirements.txt # Файл с зависимостями
-├── data/ # Папка с данными (если данные не загружаются через интерфейс)
-│ └── ai4i2020.csv
-├── README.md # Описание проекта
+├── app.py # Основной файл Streamlit-приложения  
+├── analysis_and_model.py # Страница с анализом данных и моделью  
+├── presentation.py # Страница с презентацией проекта  
+├── requirements.txt # Файл с зависимостями  
+├── data/ # Папка с данными (если данные не загружаются через интерфейс)  
+│ └── ai4i2020.csv  
+├── README.md # Описание проекта  
 ---
 
 ## 🖥️ Установка и запуск  
