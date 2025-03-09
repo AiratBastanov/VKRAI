@@ -53,6 +53,11 @@
 - **scikit-learn** — обучение моделей  
 - **XGBoost** — градиентный бустинг  
 - **Matplotlib, Seaborn** — визуализация
+## 🎥 Презентационное видео проекта  
+Для лучшего понимания работы проекта посмотрите презентационное видео на YouTube:
+
+[![Презентация проекта на YouTube](https://img.youtube.com/vi/Usk5SORXDOk/0.jpg)](https://www.youtube.com/watch?v=Usk5SORXDOk)
+  
 ## 📂 Структура проекта  
 predictive_maintenance_project/  
 │  
@@ -76,6 +81,5 @@ cd VKRAI
 pip install -r requirements.txt
 3️⃣ Запуск приложения
 streamlit run app.py
-```
-<video src="video/video VKR.mkv" controls width="100%"></video>
+
 
