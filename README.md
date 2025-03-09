@@ -76,3 +76,6 @@ cd VKRAI
 pip install -r requirements.txt
 3️⃣ Запуск приложения
 streamlit run app.py
+```
+<video src="video/video VKR.mkv" controls width="100%"></video>
+
